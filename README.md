@@ -6,11 +6,11 @@ This project was developed and trained using Google Colaboratory. It uses tensor
 
 The src folder contains the source code. It contains 5 files:-
 
-DCNN_and_VGG16.ipynb - Contains code and output for Deep CNN and VGG 16 Model trained.
-EfficientNetB0.ipynb - Contains code and output for Efficient Net Model trained.
-Resnet50final.ipynb - Contains code and output for ResNet50 Model trained.
-detnet.ipynb - Contains code and output for DetNet Model trained.
-InceptionV3.ipynb - Contains code and output for InceptionV3 Model trained.
+DCNN_and_VGG16.ipynb - Contains code and output for Deep CNN and VGG 16 Model trained.<br /> 
+EfficientNetB0.ipynb - Contains code and output for Efficient Net Model trained.<br /> 
+Resnet50final.ipynb - Contains code and output for ResNet50 Model trained.<br /> 
+detnet.ipynb - Contains code and output for DetNet Model trained.<br /> 
+InceptionV3.ipynb - Contains code and output for InceptionV3 Model trained.<br /> 
 The Sample Dataset conatins 4 folders namely, weed_cluster, waterway, standing_water and cloud_shadow corresponding to the field pattern images it contains. Each folder contains 12 images.
 
 Link to complete dataset used in this project : https://drive.google.com/drive/folders/1OWKZM6zhtIq_ex5vjawFF0PJ-JqNLHfK?usp=sharing
